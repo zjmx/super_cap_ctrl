@@ -1,0 +1,4 @@
+四开关buck_boost功率控制PCB与嵌入式代码
+主控采用STM32F334C8T6
+半桥驱动采用UCC27211
+MOSFET采用NCEP0178AK
